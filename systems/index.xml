@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Systems on Muhammad Qasim</title><link>https://qasimio.github.io/systems/</link><description>Recent content in Systems on Muhammad Qasim</description><generator>Hugo -- 0.153.2</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://qasimio.github.io/systems/index.xml" rel="self" type="application/rss+xml"/><item><title>DevShelf — Search Engine from First Principles (Java)</title><link>https://qasimio.github.io/systems/devshelf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qasimio.github.io/systems/devshelf/</guid><description>DevShelf is a distributed vertical search engine for Computer Science literature, engineered in Java without Lucene or ElasticSearch.</description></item><item><title>MQNotebook — Enterprise-Grade RAG System</title><link>https://qasimio.github.io/systems/mqnotebook/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qasimio.github.io/systems/mqnotebook/</guid><description>MQNotebook is a production-ready Retrieval-Augmented Generation (RAG) engine designed for messy, real-world enterprise documents.</description></item><item><title>BabyGPT: Generative Text Engine</title><link>https://qasimio.github.io/systems/babygpt/</link><pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate><guid>https://qasimio.github.io/systems/babygpt/</guid><description>A character-level Generative AI model built from scratch using Dual-Stack LSTMs and custom temperature sampling.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Muhammad Qasim</title>
+    <link>http://localhost:1313/systems/</link>
+    <description>Recent content in Projects on Muhammad Qasim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevShelf — Search Engine from First Principles (Java)</title>
+      <link>http://localhost:1313/systems/devshelf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/systems/devshelf/</guid>
+      <description>A first-principles search engine demonstrating offline indexing, positional inverted indices, and hybrid ranking.</description>
+    </item>
+    <item>
+      <title>MQNotebook — Enterprise-Grade RAG System</title>
+      <link>http://localhost:1313/systems/mqnotebook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/systems/mqnotebook/</guid>
+      <description>A local-first RAG system engineered to handle scanned PDFs, complex spreadsheets, and slide decks with precision retrieval and reranking.</description>
+    </item>
+    <item>
+      <title>BabyGPT: Generative Text Engine</title>
+      <link>http://localhost:1313/systems/babygpt/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/systems/babygpt/</guid>
+      <description>A character-level Generative AI model built from scratch using Dual-Stack LSTMs and custom temperature sampling.</description>
+    </item>
+  </channel>
+</rss>
